@@ -1,1 +1,1 @@
-console.log("hello abc");
+const a = 123;
